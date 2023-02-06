@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "DroneTest": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/DroneTest",
+      "applicationUrl": "https://localhost:6080",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

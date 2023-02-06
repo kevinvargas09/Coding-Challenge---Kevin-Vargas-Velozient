@@ -1,0 +1,22 @@
+DroneA
+Trip #1
+LocationB,LocationC
+Trip #2
+LocationA
+Trip #3
+LocationD
+Trip #4
+LocationE
+DroneB
+Trip #5
+LocationA,LocationC
+Trip #6
+LocationB,LocationD
+Trip #7
+LocationE
+DroneC
+Trip #8
+LocationA,LocationB,LocationC
+Trip #9
+LocationD,LocationE
+
